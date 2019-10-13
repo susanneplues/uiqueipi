@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aweipuequ.ondrejsradeja.cz/sitemap.xml
